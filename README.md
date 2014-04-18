@@ -3,7 +3,7 @@ data_science
 
 Material from experiments on data science
 
-Heading
+Headings
 
 # This is a primary heading
 ## This is a secondary heading
